@@ -2,7 +2,7 @@
 
 **Summary**
 
-Customer churn isn’t just a KPI, it’s a silent revenue killer. In this project, I built a fully functional churn prediction engine using telecom customer data. The model identifies high-risk users based on tenure, billing behavior, and contract preferences — arming teams with actionable insights to reduce churn.
+Customer churn isn’t just a KPI, it’s a silent revenue killer. In this project, I built a fully functional churn prediction engine using telecom customer data. The model identifies high-risk users based on tenure, billing behavior, and contract preferences such as arming teams with actionable insights to reduce churn.
 
 The model is interpretable, fast to deploy, and delivers real-time churn probabilities for any new customer, making it ideal for integration into CRM systems or retention dashboards.
 
